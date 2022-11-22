@@ -8,7 +8,7 @@ Software Developer
 * 🖥️  See my portfolio at [suleymankndlc.me](http://suleymankndlc.me)
 * ✉️  You can contact me at [hello@suleymankndlc.me](mailto:hello@suleymankndlc.me)
 * 🚀  I'm currently working on [LolScript](http://lolscript.com)
-* 🧠  I'm learning Nest.js
+* 🧠  I'm learning Nestjs
 * 🤝  I'm open to collaborating on Express or Next.js Projects
 
 ### Skills
